@@ -28,5 +28,5 @@ We recommend using [Zeit now](https://zeit.co/now) to publish your project to th
 
 
 
-#Hosting
+# Hosting
 The app is hosted there : https://teaching-tweb-2018-labo-01-now-ubmtuqtzea.now.sh/
