@@ -1,0 +1,22 @@
+{
+  "name": "teaching-tweb-2018-labo-01",
+  "version": "1.0.0",
+  "description": "Tweb Lab1",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DDejviDD/Teaching-TWEB-2018-Labo-01.git"
+  },
+  "author": "Muaremi Dejvid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DDejviDD/Teaching-TWEB-2018-Labo-01/issues"
+  },
+  "homepage": "https://github.com/DDejviDD/Teaching-TWEB-2018-Labo-01#readme",
+  "dependencies": {
+    "eslint": "^5.6.0"
+  }
+}
