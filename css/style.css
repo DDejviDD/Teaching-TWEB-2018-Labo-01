@@ -1,0 +1,100 @@
+body{
+    background-color: rosybrown;
+    font-family: Antic Slab;
+
+}
+#content{
+    background-color: whitesmoke;
+    justify-content: space-around;
+    width: 800px;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+#top{
+    height: 300px;
+    display: flex;
+}
+#bottom{   
+    height: 100px;
+    display: flex;
+}
+#pic{
+    width: 300px;
+    height: 300px;
+}
+#info{
+    width: 500px;
+    height: 300px;
+}
+
+#follow{
+    width: 300px;
+    height: 100px;
+    
+}
+
+#social{
+    width: 500px;
+    height: 100px;
+    display: flex;
+}
+
+#picture{
+    width: 250px;
+    height:250px;
+    display: block;
+    margin: 25px;
+    border-radius: 10%;
+}
+
+#fake-button{
+    border-radius: 25px;
+    padding: 20px;
+
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    width: 250px;
+    height: 50px;
+    background-color: #73AD21;
+    cursor:pointer;
+
+    color:whitesmoke;
+    font-weight: 900;
+    line-height: 50px;
+    text-align: center;
+
+    display:inline-block;
+    border:1px solid #CCC;
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
+    
+    vertical-align:middle;
+    padding: 5px;
+
+    -webkit-user-select: none;  /* Chrome all / Safari all */
+    -moz-user-select: none;     /* Firefox all */
+    -ms-user-select: none;      /* IE 10+ */
+    user-select: none;          /* Likely future */  
+}
+
+.data{
+    height: 100px;
+    width: 100px;
+    margin-left:50px;
+    margin-top: -25px;
+}
+
+#validation{
+    position: absolute;
+    top: 10px;
+    right: 175px;
+    height: 50px;
+    width:50px;
+    border-radius: 20%;
+}
